@@ -1,0 +1,264 @@
+[
+  {
+    "id": "72c4a527-377c-482e-8211-bcf18679e1ab",
+    "title": "Lynch+cuina",
+    "description": "Donar menjar a en Lynch i endreçar la cuina",
+    "startDate": "2025-11-30",
+    "startTime": "06:30",
+    "endTime": "07:00",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-01": {
+        "status": "completed",
+        "timestamp": 1764710330544
+      },
+      "2025-12-02": {
+        "status": "completed",
+        "timestamp": 1764710362339
+      },
+      "2025-12-03": {
+        "status": "completed",
+        "timestamp": 1764837164698
+      },
+      "2025-12-04": {
+        "status": "completed",
+        "timestamp": 1764837212566
+      },
+      "2025-12-05": {
+        "status": "completed",
+        "timestamp": 1765231083855
+      },
+      "2025-12-08": {
+        "status": "completed",
+        "timestamp": 1765231100044
+      }
+    },
+    "createdAt": 1764526423151
+  },
+  {
+    "id": "6093dfff-6b02-4671-a596-d1bf6d1b2e0c",
+    "title": "Llevar i esmorzar",
+    "description": "",
+    "startDate": "2025-11-30",
+    "startTime": "08:30",
+    "endTime": "09:00",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-01": {
+        "status": "completed",
+        "timestamp": 1764710334009
+      },
+      "2025-12-02": {
+        "status": "completed",
+        "timestamp": 1764710363992
+      },
+      "2025-12-03": {
+        "status": "completed",
+        "timestamp": 1764837166070
+      },
+      "2025-12-04": {
+        "status": "completed",
+        "timestamp": 1764837214569
+      },
+      "2025-12-05": {
+        "status": "completed",
+        "timestamp": 1765231084958
+      },
+      "2025-12-08": {
+        "status": "completed",
+        "timestamp": 1765231101079
+      }
+    },
+    "createdAt": 1764526492498
+  },
+  {
+    "id": "b9c4b304-1dba-4bba-9e5b-819c4b29bd8a",
+    "title": "Fer el llit i vestir",
+    "description": "",
+    "startDate": "2025-11-30",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-01": {
+        "status": "pending",
+        "timestamp": 1764710341090,
+        "comment": "Viatge a Madrid - tot el dia"
+      },
+      "2025-12-02": {
+        "status": "completed",
+        "timestamp": 1764710365811
+      },
+      "2025-12-03": {
+        "status": "missed",
+        "timestamp": 1764837174496
+      },
+      "2025-12-04": {
+        "status": "completed",
+        "timestamp": 1764837219307
+      },
+      "2025-12-05": {
+        "status": "completed",
+        "timestamp": 1765231086320
+      },
+      "2025-12-08": {
+        "status": "completed",
+        "timestamp": 1765231104443
+      }
+    },
+    "createdAt": 1764526545588
+  },
+  {
+    "id": "5feb59d8-3c38-4345-b81d-f2690a6d2af7",
+    "title": "Deloitte",
+    "description": "",
+    "startDate": "2025-11-30",
+    "startTime": "09:30",
+    "endTime": "11:30",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-02": {
+        "status": "completed",
+        "timestamp": 1764710369897
+      },
+      "2025-12-03": {
+        "status": "completed",
+        "timestamp": 1764837175680
+      },
+      "2025-12-04": {
+        "status": "completed",
+        "timestamp": 1764883184309
+      },
+      "2025-12-05": {
+        "status": "completed",
+        "timestamp": 1765231087523
+      },
+      "2025-12-08": {
+        "status": "missed",
+        "timestamp": 1765231105727
+      }
+    },
+    "createdAt": 1764526589677
+  },
+  {
+    "id": "910207b0-487c-409d-aa75-c7101c92423b",
+    "title": "Descans (Irene/TV)",
+    "description": "Dl/Dm/Dv: veure capitol TV o videojoc\n- Dc/Dj: Estar amb la Irene",
+    "startDate": "2025-11-30",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-02": {
+        "status": "missed",
+        "timestamp": 1764710372986
+      },
+      "2025-12-03": {
+        "status": "missed",
+        "timestamp": 1764837179367
+      },
+      "2025-12-04": {
+        "status": "missed",
+        "timestamp": 1764883185559
+      },
+      "2025-12-05": {
+        "status": "missed",
+        "timestamp": 1765231089022
+      },
+      "2025-12-08": {
+        "status": "completed",
+        "timestamp": 1765231107754
+      }
+    },
+    "createdAt": 1764526860109
+  },
+  {
+    "id": "18557802-efbd-446f-8323-6ff24115624e",
+    "title": "Bàsquet / Supermercat",
+    "description": "Anar a jugar a bàsquet o al supermercat, a dies alterns",
+    "startDate": "2025-11-30",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-02": {
+        "status": "missed",
+        "timestamp": 1764710374026
+      },
+      "2025-12-03": {
+        "status": "pending",
+        "timestamp": 1764837183278,
+        "comment": "Visita mèdica a Barcelona"
+      },
+      "2025-12-04": {
+        "status": "completed",
+        "timestamp": 1764883192736
+      },
+      "2025-12-05": {
+        "status": "missed",
+        "timestamp": 1765231090922
+      },
+      "2025-12-08": {
+        "status": "missed",
+        "timestamp": 1765231109167
+      }
+    },
+    "createdAt": 1764526976160
+  },
+  {
+    "id": "6aa8b3c3-f801-4198-a763-0e21e2c6f43f",
+    "title": "Deixalles",
+    "description": "Llençar les escombraries",
+    "startDate": "2025-11-30",
+    "startTime": "21:00",
+    "endTime": "21:30",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-02": {
+        "status": "completed",
+        "timestamp": 1764710375076
+      },
+      "2025-12-04": {
+        "status": "completed",
+        "timestamp": 1764883191127
+      },
+      "2025-12-05": {
+        "status": "completed",
+        "timestamp": 1765231092012
+      },
+      "2025-12-08": {
+        "status": "completed",
+        "timestamp": 1765231112317
+      }
+    },
+    "createdAt": 1764527045216
+  },
+  {
+    "id": "a61839b3-266c-4734-b76e-5335c1ba1995",
+    "title": "Dutxa",
+    "description": "",
+    "startDate": "2025-11-30",
+    "startTime": "22:30",
+    "endTime": "23:00",
+    "recurrence": "weekdays",
+    "logs": {
+      "2025-12-02": {
+        "status": "completed",
+        "timestamp": 1764710377969
+      },
+      "2025-12-04": {
+        "status": "completed",
+        "timestamp": 1764883195076
+      },
+      "2025-12-05": {
+        "status": "completed",
+        "timestamp": 1765231092789
+      },
+      "2025-12-08": {
+        "status": "missed",
+        "timestamp": 1765231114929
+      }
+    },
+    "createdAt": 1764527096249
+  }
+]
