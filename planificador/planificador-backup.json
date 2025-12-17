@@ -31,6 +31,34 @@
       "2025-12-08": {
         "status": "completed",
         "timestamp": 1765231100044
+      },
+      "2025-12-09": {
+        "status": "completed",
+        "timestamp": 1765314528314
+      },
+      "2025-12-10": {
+        "status": "completed",
+        "timestamp": 1765486262996
+      },
+      "2025-12-11": {
+        "status": "completed",
+        "timestamp": 1765486279400
+      },
+      "2025-12-12": {
+        "status": "completed",
+        "timestamp": 1765984740639
+      },
+      "2025-12-15": {
+        "status": "completed",
+        "timestamp": 1765984809108
+      },
+      "2025-12-16": {
+        "status": "completed",
+        "timestamp": 1765984812764
+      },
+      "2025-12-17": {
+        "status": "completed",
+        "timestamp": 1765984830809
       }
     },
     "createdAt": 1764526423151
@@ -67,6 +95,34 @@
       "2025-12-08": {
         "status": "completed",
         "timestamp": 1765231101079
+      },
+      "2025-12-09": {
+        "status": "completed",
+        "timestamp": 1765314529438
+      },
+      "2025-12-10": {
+        "status": "completed",
+        "timestamp": 1765486264605
+      },
+      "2025-12-11": {
+        "status": "completed",
+        "timestamp": 1765486280359
+      },
+      "2025-12-12": {
+        "status": "completed",
+        "timestamp": 1765984742687
+      },
+      "2025-12-15": {
+        "status": "completed",
+        "timestamp": 1765984807995
+      },
+      "2025-12-16": {
+        "status": "completed",
+        "timestamp": 1765984815284
+      },
+      "2025-12-17": {
+        "status": "completed",
+        "timestamp": 1765984831900
       }
     },
     "createdAt": 1764526492498
@@ -104,6 +160,34 @@
       "2025-12-08": {
         "status": "completed",
         "timestamp": 1765231104443
+      },
+      "2025-12-09": {
+        "status": "completed",
+        "timestamp": 1765314530935
+      },
+      "2025-12-10": {
+        "status": "completed",
+        "timestamp": 1765486265865
+      },
+      "2025-12-11": {
+        "status": "completed",
+        "timestamp": 1765486281997
+      },
+      "2025-12-12": {
+        "status": "completed",
+        "timestamp": 1765984744431
+      },
+      "2025-12-15": {
+        "status": "completed",
+        "timestamp": 1765984807196
+      },
+      "2025-12-16": {
+        "status": "completed",
+        "timestamp": 1765984816522
+      },
+      "2025-12-17": {
+        "status": "completed",
+        "timestamp": 1765984833026
       }
     },
     "createdAt": 1764526545588
@@ -136,6 +220,34 @@
       "2025-12-08": {
         "status": "missed",
         "timestamp": 1765231105727
+      },
+      "2025-12-09": {
+        "status": "completed",
+        "timestamp": 1765314532691
+      },
+      "2025-12-10": {
+        "status": "completed",
+        "timestamp": 1765486267316
+      },
+      "2025-12-11": {
+        "status": "completed",
+        "timestamp": 1765486282722
+      },
+      "2025-12-12": {
+        "status": "completed",
+        "timestamp": 1765984745927
+      },
+      "2025-12-15": {
+        "status": "completed",
+        "timestamp": 1765984799512
+      },
+      "2025-12-16": {
+        "status": "missed",
+        "timestamp": 1765984817905
+      },
+      "2025-12-17": {
+        "status": "completed",
+        "timestamp": 1765984834286
       }
     },
     "createdAt": 1764526589677
@@ -168,6 +280,35 @@
       "2025-12-08": {
         "status": "completed",
         "timestamp": 1765231107754
+      },
+      "2025-12-09": {
+        "status": "missed",
+        "timestamp": 1765314533490,
+        "comment": "Hi ha hagut més feina de Deloitte"
+      },
+      "2025-12-10": {
+        "status": "missed",
+        "timestamp": 1765486268620
+      },
+      "2025-12-11": {
+        "status": "completed",
+        "timestamp": 1765486286486
+      },
+      "2025-12-12": {
+        "status": "missed",
+        "timestamp": 1765984747717
+      },
+      "2025-12-15": {
+        "status": "missed",
+        "timestamp": 1765984801131
+      },
+      "2025-12-16": {
+        "status": "missed",
+        "timestamp": 1765984818581
+      },
+      "2025-12-17": {
+        "status": "completed",
+        "timestamp": 1765984837774
       }
     },
     "createdAt": 1764526860109
@@ -201,6 +342,34 @@
       "2025-12-08": {
         "status": "missed",
         "timestamp": 1765231109167
+      },
+      "2025-12-09": {
+        "status": "missed",
+        "timestamp": 1765314546955
+      },
+      "2025-12-10": {
+        "status": "missed",
+        "timestamp": 1765486270546
+      },
+      "2025-12-11": {
+        "status": "missed",
+        "timestamp": 1765486290225
+      },
+      "2025-12-12": {
+        "status": "missed",
+        "timestamp": 1765984748751
+      },
+      "2025-12-15": {
+        "status": "missed",
+        "timestamp": 1765984802605
+      },
+      "2025-12-16": {
+        "status": "missed",
+        "timestamp": 1765984819817
+      },
+      "2025-12-17": {
+        "status": "missed",
+        "timestamp": 1765984838965
       }
     },
     "createdAt": 1764526976160
@@ -229,6 +398,34 @@
       "2025-12-08": {
         "status": "completed",
         "timestamp": 1765231112317
+      },
+      "2025-12-09": {
+        "status": "completed",
+        "timestamp": 1765314548777
+      },
+      "2025-12-10": {
+        "status": "completed",
+        "timestamp": 1765486272012
+      },
+      "2025-12-11": {
+        "status": "completed",
+        "timestamp": 1765486291166
+      },
+      "2025-12-12": {
+        "status": "completed",
+        "timestamp": 1765984749945
+      },
+      "2025-12-15": {
+        "status": "completed",
+        "timestamp": 1765984803359
+      },
+      "2025-12-16": {
+        "status": "completed",
+        "timestamp": 1765984825027
+      },
+      "2025-12-17": {
+        "status": "completed",
+        "timestamp": 1765984840159
       }
     },
     "createdAt": 1764527045216
@@ -257,6 +454,34 @@
       "2025-12-08": {
         "status": "missed",
         "timestamp": 1765231114929
+      },
+      "2025-12-09": {
+        "status": "completed",
+        "timestamp": 1765314549679
+      },
+      "2025-12-10": {
+        "status": "completed",
+        "timestamp": 1765486273167
+      },
+      "2025-12-11": {
+        "status": "completed",
+        "timestamp": 1765486293119
+      },
+      "2025-12-12": {
+        "status": "completed",
+        "timestamp": 1765984751056
+      },
+      "2025-12-15": {
+        "status": "completed",
+        "timestamp": 1765984804432
+      },
+      "2025-12-16": {
+        "status": "completed",
+        "timestamp": 1765984826028
+      },
+      "2025-12-17": {
+        "status": "completed",
+        "timestamp": 1765984841083
       }
     },
     "createdAt": 1764527096249
