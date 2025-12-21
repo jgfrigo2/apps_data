@@ -1,23 +1,15 @@
 [
   {
     "id": "1",
-    "series": "The Amazing Spider-Man",
+    "series": "The Amazing Spider-Man test",
     "volume": "Vol. 1",
-    "title": "The Amazing Spider-Man",
+    "title": "The Amazing Spider-Man test",
     "issueNumber": "1",
     "year": "1963",
-    "coverUrl": "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
+    "coverUrl": "https://res.cloudinary.com/danvnvacy/image/upload/v1766333867/Absolute_Carnage_Symbiote_Spider-Man_2019__1_01_pz4zsg.jpg",
     "pages": [
-      "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg",
-	    "https://www.mediafire.com/view/k4hm4ywhyld0a09/Absolute_Carnage%253B_Symbiote_Spider-Man_%25282019%2529_1_01.jpg"
+		"https://res.cloudinary.com/danvnvacy/image/upload/v1766333867/Absolute_Carnage_Symbiote_Spider-Man_2019__1_01_pz4zsg.jpg",
+		"https://res.cloudinary.com/danvnvacy/image/upload/v1766333867/Absolute_Carnage_Symbiote_Spider-Man_2019__1_02_q20f1s.jpg"
     ],
     "description": "El debut!"
   }
