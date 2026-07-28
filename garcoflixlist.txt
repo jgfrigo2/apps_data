@@ -1,0 +1,12 @@
+Servidor1|https://www.vidking.net/embed/
+Servidor2|https://vidsrc2.ru/embed/
+Servidor3|https://vidsrcme.ru/embed/
+Servidor4|https://vidsrcme.su/embed/
+Servidor5|https://vidsrc-me.ru/embed/
+Servidor6|https://vidsrc-me.su/embed/
+Servidor7|https://vidsrc-embed.ru/embed/
+Servidor8|https://vidsrc-embed.su/embed/
+Servidor9|https://www.vidlink.pro/
+Servidor10|https://www.2embed.online/embed/
+Servidor11|https://www.vidcore.org/embed/
+Servidor12|vidsuper|https://vidsuper.net
