@@ -1,6 +1,6 @@
 Servidor1|https://www.vidking.net/embed/
-Servidor2|https://vsembed.ru/embed/
-Servidor3|https://vsembed.su/embed/
+Servidor2|https://vidsrc.sbs/embed/
+Servidor3|https://cinesrc.st/embed/
 Servidor4|https://www.vidlink.pro/
 Servidor5|https://www.2embed.online/embed/
 Servidor6|https://www.vidcore.org/embed/
